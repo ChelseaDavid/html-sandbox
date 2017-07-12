@@ -44,5 +44,8 @@
 			<li>Run to the post office</li>
 		</ol>
 
+		<h2>I <3 Pikachu</h2>
+		<img src="images/pikachu.jpg" alt=pikachu">
+
 	</body>
 </html>
